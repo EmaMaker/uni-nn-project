@@ -1,0 +1,6 @@
+[submodule "pybullet-panda"]
+	path = pybullet-panda
+	url = https://github.com/irom-princeton/pybullet-panda
+[submodule "panda-pick-and-place"]
+	path = panda-pick-and-place
+	url = https://github.com/aszkiel71/panda-pick-and-place/
